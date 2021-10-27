@@ -1,0 +1,22 @@
+{
+	CropPath: /home/katzentatzentanz/Documents/ShellGames/Afk farm/cropTypes
+	Money: 19996000
+	FieldPrice: 1000
+	Fields: [
+		{
+			Name: UwU Farm
+			H: 2
+			W: 4
+			Data: [
+				{ID: 0; Stage: 0; Lastgrow: 2}
+				{ID: 0; Stage: 1; Lastgrow: 2}
+				{ID: 0; Stage: 2; Lastgrow: 2}
+				{ID: 0; Stage: 3; Lastgrow: 2}
+				{ID: 0; Stage: 4; Lastgrow: 2}
+				{ID: 0; Stage: 5; Lastgrow: 2}
+				{ID: 0; Stage: 6; Lastgrow: 2}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+			]
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	CropPath: /home/katzentatzentanz/Documents/ShellGames/Afk\ farm/cropTypes
+	Money: 100000
+	FieldPrice: 1000
+	Fields: [
+		{
+			Name: UwU\ TestFarm
+			H: 5
+			W: 5
+			Data: [
+				{ID: 0; Stage: 0; Lastgrow: 0}
+				{ID: 0; Stage: 1; Lastgrow: 0}
+				{ID: 0; Stage: 2; Lastgrow: 0}
+				{ID: 0; Stage: 3; Lastgrow: 0}
+				{ID: 0; Stage: 4; Lastgrow: 0}
+				{ID: 0; Stage: 5; Lastgrow: 0}
+				{ID: 0; Stage: 6; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: 1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: 1; Stage: 1; Lastgrow: 0}
+				{ID: 1; Stage: 2; Lastgrow: 0}
+				{ID: 1; Stage: 3; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+				{ID: -1; Stage: 0; Lastgrow: 0}
+			]
+		}
+	]
+}
